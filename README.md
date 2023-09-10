@@ -15,5 +15,10 @@ You will be able to control which products are "featured" so they show on the ho
 
 <img width="826" alt="image" src="https://github.com/shabrozkamboj/E_commerce_with_admin_panel/assets/98809822/3e33cb7f-e7fb-41e2-ae47-212d80d927ce">
 
+
 <img width="896" alt="image" src="https://github.com/shabrozkamboj/E_commerce_with_admin_panel/assets/98809822/d11f0ac6-fae3-4207-978c-6b7627cc9c17">
+
+revenue graphs
+<img width="586" alt="image" src="https://github.com/shabrozkamboj/E_commerce_with_admin_panel/assets/98809822/39cfb8e7-f139-4b42-ab51-8d21402b16eb">
+
 
