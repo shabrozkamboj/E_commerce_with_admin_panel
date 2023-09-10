@@ -1,5 +1,5 @@
 # E_commerce_with_admin_panel
-This is a repository for a Full Stack E-Commerce + Dashboard :  Next.js 13, MongoDB, Firebase, Strapi, Tailwind CSS
+This is a repository for a Full Stack E-Commerce + Dashboard : React ,  Next.js , MongoDB, Firebase , Tailwind CSS
 
 Key Features:
 Our admin dashboard is going to serve as both client and  Admin 
